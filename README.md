@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazycrazydev
 - 👀 I’m interested in full stack web and mobile development.
-- 🌱 I’m currently learning web development and React
+- 🌱 I’m currently learning React.
 - 📫 You can reach me at jain.sam095@gmail.com
 
 <!---
